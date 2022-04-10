@@ -20,7 +20,8 @@ const GlobalStyle = createGlobalStyle`
     }
 
     body{
-        background-color: lightblue;
+        /* background-color: var(--neutral-light); */
+        background-color:lightgray;
         color: white;
         font-size: 1.2rem;
     }
